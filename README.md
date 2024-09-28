@@ -2,6 +2,11 @@
 
 The Solana Raydium Volume Bot is a sophisticated tool to facilitate volume transactionson Raydium dex on the Solana blockchain. This script is ideal for users seeking to streamline complex transaction processes while maximizing performance.
 
+We're building advanced DEX bots for the community to support our mission at Cortex in advancing stem cell therapies and seizure prediction technologies for epilepsy treatment. By participating in our presale, you'll gain early access to these bots and receive full setup support. Join us in revolutionizing epilepsy treatment and be part of our journey!
+
+For more details, join our Discord at [Core Dex Community](https://discord.gg/AWDgU4WCwV)
+
+
 ## Initial Setup
 
 To successfully set up and activate the Solana Volume Bot, please adhere to the following procedures.
@@ -64,5 +69,3 @@ For detailed guidance and technical assistance, feel free to reach out to me dir
 
 ### Contact info
 
-- Telegram: [@inscNix](https://t.me/inscNix)
-- Twitter: [@chain_sats](https://x.com/chain_sats)
